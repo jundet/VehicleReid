@@ -7,5 +7,5 @@ VehicleReid based on pytorch
 
 ## Reference
 
-[RepNet-MDNet-VehicleReID]（https://github.com/CaptainEven/RepNet-MDNet-VehicleReID） 
+[RepNet-MDNet-VehicleReID](https://github.com/CaptainEven/RepNet-MDNet-VehicleReID)
 
