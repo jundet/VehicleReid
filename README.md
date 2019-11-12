@@ -5,6 +5,8 @@ VehicleReid based on pytorch
 
 2、run vtrainer.py
 
+[open-vehicle-reid](https://github.com/jundet/open-vehicle-reid)
+
 ## Reference
 
 [RepNet-MDNet-VehicleReID](https://github.com/CaptainEven/RepNet-MDNet-VehicleReID)
